@@ -3,9 +3,6 @@ body {
 }
 
 .btn {
-  width: 110px;
-  height: 40px;
-  cursor: pointer;
   background-color: aqua;
   border-radius: 10px;
 }
@@ -14,6 +11,8 @@ body {
   text-decoration: none;
   color: rgb(34, 27, 73);
   font-size: larger;
+  padding: 20px;
+  cursor: pointer;
 }
 
 .link {
